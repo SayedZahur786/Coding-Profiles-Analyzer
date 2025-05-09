@@ -1,4 +1,4 @@
-# Codingg Profiles Analyzer
+# Coding Profiles Analyzer
 
 A comprehensive web application that helps developers track and analyze their coding performance across multiple platforms including LeetCode, Codeforces, and GitHub. Get personalized AI-powered insights to improve your coding skills and track your progress effectively.
 
